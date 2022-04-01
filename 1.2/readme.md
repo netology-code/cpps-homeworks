@@ -1,0 +1,41 @@
+
+# Домашнее задание к занятию "Операторы ветвления. Логические операции"
+
+### Цель задания:
+
+1. Закрепим понимание математических и логических операций на языке С++
+
+### Чеклист готовности к домашнему заданию:
+
+1. Для выполнения задания и дальнейшего прохождения курса требуется компьютер с операционной системой Windows, MacOS или Linux с установленной последней версией браузера Chrome.
+2. Для работы в [repl.it](https://repl.it/) необходимо зарегистрироваться на сайте. [Инструкция по регистрации в repl.it](https://github.com/netology-code/cpps-homeworks/tree/first-stream-homewokrs/common/replit)
+
+### Инструкция
+
+[Инструкция по выполнению домашнего задания](https://github.com/netology-code/cpps-homeworks/blob/first-stream-homewokrs/common/readme.md)
+
+------
+
+### Задание 1
+[Таблица истинности](https://github.com/netology-code/cpps-homeworks/tree/first-stream-homewokrs/1.2/1.2.1)
+
+### Задание 2
+[Упорядочить числа](https://github.com/netology-code/cpps-homeworks/tree/first-stream-homewokrs/1.2/1.2.2)
+
+### Задание 3
+[Гороскоп](https://github.com/netology-code/cpps-homeworks/tree/first-stream-homewokrs/1.2/1.2.3)
+
+### Задание 4*
+[Сравни числа](https://github.com/netology-code/cpps-homeworks/tree/first-stream-homewokrs/1.2/1.2.4)
+
+------
+
+### Правила приема работы:
+
+1. Задание нужно сдавать, прикрепляя в личном кабинете ссылку на ваш repl
+
+### Критерии оценки:
+
+1. К личном кабинете для сдачи прикреплены ссылки repl с кодом для заданий 1, 2 и 3
+2. В ссылке должен содержаться код, который при запуске выполняет описанный в задании алгоритм
+
