@@ -18,7 +18,7 @@
 ------
 
 ### Задание 1
-[Пишем первую программу](https://github.com/netology-code/cpps-homeworks/tree/main/1.1/1.1.1) 
+[Пишем первую программу](https://github.com/netology-code/cpps-homeworks/tree/main/01/1) 
 
 ### Задание 2
 [Повторюшка](https://github.com/netology-code/cpps-homeworks/tree/main/1.1/1.1.2)
