@@ -15,8 +15,11 @@
 
 ------
 
-### Задание
-[Повтори слово](https://github.com/netology-code/cpps-homeworks/tree/main/02/1)
+### Задание 1
+[Повтори число](https://github.com/netology-code/cpps-homeworks/tree/main/02/1)
+
+### Задание 2*
+[Повтори слово](https://github.com/netology-code/cpps-homeworks/tree/main/02/2)
 
 ------
 
