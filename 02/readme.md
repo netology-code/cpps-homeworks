@@ -16,7 +16,7 @@
 ------
 
 ### Задание
-[Повторюшка](https://github.com/netology-code/cpps-homeworks/tree/main/02/1)
+[Повтори слово](https://github.com/netology-code/cpps-homeworks/tree/main/02/1)
 
 ------
 
