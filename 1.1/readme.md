@@ -14,7 +14,7 @@
 
 ### Инструкция по выполнению домашнего задания.
 
-Инструкция доступна [по ссылке](https://github.com/netology-code/cpps-homeworks/tree/main/common).
+Инструкция дана [по ссылке](https://github.com/netology-code/cpps-homeworks/tree/main/common).
 
 ------
 
