@@ -10,11 +10,11 @@
 ### Подготовка к выполнению домашнего задания.
 
 1. Для выполнения задания и дальнейшего прохождения курса нужен компьютер с операционной системой Windows, macOS или Linux и установленной на нём последней версией браузера Chrome.
-2. Для работы в [replit](https://repl.it/) необходимо зарегистрироваться на сайте. [Инструкция по регистрации в repl.it](https://github.com/netology-code/cpps-homeworks/tree/main/common/replit).
+2. Для работы в [replit](https://repl.it/) необходимо зарегистрироваться на сайте. [Инструкция по регистрации в replit](https://github.com/netology-code/cpps-homeworks/tree/main/common/replit).
 
-### Инструкция.
+### Инструкция по выполнению домашнего задания.
 
-[Инструкция по выполнению домашнего задания](https://github.com/netology-code/cpps-homeworks/tree/main/common).
+Инструкция доступна [по ссылке](https://github.com/netology-code/cpps-homeworks/tree/main/common).
 
 ------
 
