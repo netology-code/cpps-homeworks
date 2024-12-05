@@ -10,8 +10,8 @@
 ### Подготовка к выполнению домашнего задания
 
 1. Для выполнения задания и прохождения курса нужен компьютер с операционной системой Windows, macOS или Linux и установленной на нём последней версией браузера Google Chrome.
-2. Готовый код сдавайте через [Repl.IT](http://repl.it/) или [jdoodle](https://www.jdoodle.com/). Replit имеет ограничение на количество проектов и время работы. [Инструкция по регистрации в replit и jdoodle](https://github.com/netology-code/cpps-homeworks/tree/main/common/replit).
-
+2. Готовый код сдавайте через [Repl.IT](http://repl.it/) или [jdoodle](https://www.jdoodle.com/). Replit имеет ограничение на количество проектов и время работы.
+   
 ### Инструкция по выполнению домашнего задания
 
 Инструкция дана [по ссылке](https://github.com/netology-code/cpps-homeworks/tree/main/common).
