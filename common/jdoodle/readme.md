@@ -13,4 +13,4 @@ Jdoodle - онлайн-компилятор кода. Чтобы начать р
 - _Save_ сохраняет проект;
 - _Project share_ открывает окно доступов.
  
-Чтобы отправить ссылку на код в Jdoodle нажмите  _Project share_, выберите _Anyone with the link_ в General access. Нажмите _Copy link_, чтобы получить ссылку на проект.
+Чтобы получить ссылку на проект в Jdoodle, нажмите  _Project share_, выберите _Anyone with the link_ в General access. Нажмите _Copy link_, чтобы скопировать ссылку.
